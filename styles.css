@@ -1,0 +1,44 @@
+body{background: gainsboro;
+margin: 0;}
+
+header{background: white;
+padding: 10px;
+}
+
+header h1{margin: 0;
+padding: 10px;
+font-family: 'Lilita One', sans-serif;
+}
+  
+div.post{background: white;
+    margin-top:30px;
+}
+
+div.post img{
+    width: 100%;
+height:400px}
+
+div.post h2{padding: 10px;
+   
+  }
+div.post p{margin-top: 0;
+padding: 15px;}
+
+div.container {width: 600px;
+margin: auto;
+}
+
+.photot 
+{display: flex;
+height: 50px;
+font-family: 'Comfortaa', sans-serif;}
+
+div.photot H2
+{width: 80%;
+margin: auto;
+}
+
+div.photot span
+{margin: auto;
+color: rgb(201, 195, 195);
+}
